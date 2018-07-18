@@ -1,5 +1,6 @@
 // ICS 3U FSE (Server Code)
-// Noor Nasri (In charge of server code, database, server/client communications, and some functions on the client side) and Anish Aggarwal (In charge of client code, making the wanted design, displaying the game statuses, and all the other front end stuff)
+// Noor Nasri (In charge of server code, database, server/client communications, and some functions on the client side) 
+// and Anish Aggarwal (In charge of client code, making the wanted design, displaying the game statuses, and all the other front end stuff)
 // This is a real time multiplayer 3D strategy game. You will start in the same position as five others.
 // Limited money and a negative income. You can only gain income by mining the crystals, but there's a limit to them!
 // You can't leave the crystals unattended because well, anyone can put a building right there and kill your plants.
