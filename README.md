@@ -14,8 +14,7 @@ Through many sleepless nights, we created a World at War.
  
  - Playing
  
-  The core of the game is simple. Don't go bankrupt! You can build plants to increase your income (which starts at negative $5) on the     crystals. Unfortunately, the world doesn't have many crystals, which is why it is at war over income. No one has figured a way to       build a plant that can protect itself, so it needs to always be protected from the other players! Build buildings, make units, and    
-  destroy each others bases!
+  The core of the game is simple. Don't go bankrupt! You can build plants to increase your income (which starts at negative $5) on the     crystals. Unfortunately, the world doesn't have many crystals, which is why it is at war over income. No one has figured a way to       build a plant that can protect itself, so it needs to always be protected from the other players! Build buildings, make units, and    destroy each others bases!
  
 # In-game Controls
  - Camera Movement
@@ -46,4 +45,4 @@ The database code (.js) was not posted for security reasons (We don't want peopl
  - You only run the server on one computer. However, this is a 6 player game, so if you wish to fill up the queue, it is best to use 6 computers under the network each with the client installed. If you need a few more clients to get the game started, run more than one client on the same computer. 
  - The reason the client was uploaded to a google drive was because the file was too large to place here
  - After you have extracted the compressed folders, don't move any components to another folder without moving the rest of the extracted items
- - The Unity games only run while focused on. That makes it important that whichever computer runs the server has it focused. (You can't be working on another tab)
+ - The Unity games only run while focused on. That makes it important that whichever computer runs the server has it focused (You can't be working on another tab)
