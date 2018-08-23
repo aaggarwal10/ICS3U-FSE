@@ -46,3 +46,6 @@ The database code (.js) was not posted for security reasons (We don't want peopl
  - The reason the client was uploaded to a google drive was because the file was too large to place here
  - After you have extracted the compressed folders, don't move any components to another folder without moving the rest of the extracted items
  - The Unity games only run while focused on. That makes it important that whichever computer runs the server has it focused (You can't be working on another tab)
+ 
+ 
+![World At War](https://github.com/aaggarwal10/Paint-Project/blob/master/paint.JPG)
